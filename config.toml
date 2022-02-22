@@ -1,8 +1,7 @@
-baseurl = "https://www.mytechramblings.com/"
+baseurl = "https://www.tj.cloudlink.ai/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
-googleAnalytics = "UA-170300931-1"
 
 
 [params]
@@ -29,8 +28,8 @@ googleAnalytics = "UA-170300931-1"
 
 [languages]
   [languages.en]
-    title = "my tech ramblings"
-    subtitle = "A blog for writing about my techie ramblings"
+    title = "my tech blog"
+    subtitle = "A blog for writing about my tech interest"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -46,8 +45,8 @@ googleAnalytics = "UA-170300931-1"
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "my tech ramblings"
-      logoHomeLink = "https://www.mytechramblings.com/"
+      logoText = "my tech blog"
+      logoHomeLink = "https://www.tj.cloudlink.ai/"
     # or
     #
     # path = "/img/your-example-logo.svg"

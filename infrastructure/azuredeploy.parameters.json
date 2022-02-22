@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "name": {
-            "value": "mytechramblings-blog"
+            "value": "tj-tech-blog"
         },
         "location": {
             "value": "westeurope"
@@ -15,7 +15,7 @@
             "value": "Free"
         },
         "repositoryUrl": {
-            "value": "https://github.com/karlospn/blog-azure-static-webapp"
+            "value": "https://github.com/cltj/tj-swa"
         },
         "branch": {
             "value": "master"
@@ -34,9 +34,9 @@
         },
         "resourceTags": {
             "value": {
-                "Environment": "Development",
+                "Environment": "dev",
                 "Project": "personal-blog",
-                "ApplicationName": "mytechramblings"
+                "ApplicationName": "tech-blog"
             }
         }
     }
